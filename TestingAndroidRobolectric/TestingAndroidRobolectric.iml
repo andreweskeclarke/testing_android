@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$MODULE_DIR$/lib/robolectric-2.0-alpha-3-20130506.193104-68-jar-with-dependencies.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../../android-sdks/platforms/android-17/android.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/fest-util-1.2.5.jar!/" />
+    <varelement var="file://$MODULE_DIR$/../TestingAndroid/test" value="linksrc:test" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/../TestingAndroid/test" expected_position="0" />
+      <src_folder value="com.android.ide.eclipse.adt.LIBRARIES" expected_position="4" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../TestingAndroid/test">
+      <sourceFolder url="file://$MODULE_DIR$/../TestingAndroid/test" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="jdk" jdkName="JavaSE-1.7" jdkType="JavaSDK" />
+    <orderEntry type="module-library">
+      <library name="robolectric-2.0-alpha-3-20130506.193104-68-jar-with-dependencies.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/robolectric-2.0-alpha-3-20130506.193104-68-jar-with-dependencies.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="android.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../../android-sdks/platforms/android-17/android.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="fest-util-1.2.5.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/fest-util-1.2.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="junit4">
+        <CLASSES>
+          <root url="jar://$APPLICATION_HOME_DIR$/lib/junit-4.10.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
+
