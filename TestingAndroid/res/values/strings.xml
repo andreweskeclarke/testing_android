@@ -6,6 +6,7 @@
     <string name="hello_world">Hello world!</string>
     <string name="login_button">Login</string>
     <string name="main_text">Welcome to Testing Android</string>
-    <string name="login_user_name_text_hint">Username</string><string name="login_title">Login</string>
+    <string name="login_user_name_text_hint">Username</string>
+    <string name="login_title">Login Screen</string><string name="content_list_title">Types of Buckets List</string><string name="buckets_list_button">Types of Buckets List</string>
 
 </resources>

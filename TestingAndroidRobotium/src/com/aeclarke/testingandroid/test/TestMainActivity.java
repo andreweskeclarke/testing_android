@@ -7,7 +7,7 @@ import com.jayway.android.robotium.solo.Solo;
 
 import junit.framework.TestCase;
 
-public class TestMainActivity extends ActivityInstrumentationTestCase2<MainActivity>{ 
+public class TestMainActivity extends ActivityInstrumentationTestCase2<MainActivity>{
 	private Solo solo;
 	
 	public TestMainActivity(){ 
@@ -21,6 +21,8 @@ public class TestMainActivity extends ActivityInstrumentationTestCase2<MainActiv
 	
 	public void testNavigatingToLogin() {
 		solo.clickOnButton("Login");
+        solo.waitForText("Login Screen");
+        assertEquals("Login Screen", solo.getText("Login Screen").getText());
 	}
 
 	protected void tearDown() throws Exception {

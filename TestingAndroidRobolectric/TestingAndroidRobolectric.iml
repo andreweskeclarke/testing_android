@@ -18,8 +18,8 @@
     </content>
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="jdk" jdkName="JavaSE-1.7" jdkType="JavaSDK" />
-    <orderEntry type="module-library">
+    <orderEntry type="jdk" jdkName="Android 4.2.2 Platform" jdkType="Android SDK" />
+    <orderEntry type="module-library" exported="">
       <library name="robolectric-2.0-alpha-3-20130506.193104-68-jar-with-dependencies.jar">
         <CLASSES>
           <root url="jar://$MODULE_DIR$/lib/robolectric-2.0-alpha-3-20130506.193104-68-jar-with-dependencies.jar!/" />
@@ -28,7 +28,7 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library name="android.jar">
         <CLASSES>
           <root url="jar://$MODULE_DIR$/../../../../android-sdks/platforms/android-17/android.jar!/" />
@@ -37,7 +37,7 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library name="fest-util-1.2.5.jar">
         <CLASSES>
           <root url="jar://$MODULE_DIR$/lib/fest-util-1.2.5.jar!/" />
@@ -46,7 +46,7 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library name="junit4">
         <CLASSES>
           <root url="jar://$APPLICATION_HOME_DIR$/lib/junit-4.10.jar!/" />
@@ -55,6 +55,7 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="module" module-name="TestingAndroid" />
   </component>
 </module>
 

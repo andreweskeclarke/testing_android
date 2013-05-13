@@ -14,8 +14,8 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="jdk" jdkName="JavaSE-1.7" jdkType="JavaSDK" />
-    <orderEntry type="module-library">
+    <orderEntry type="jdk" jdkName="Android 4.2.2 Platform" jdkType="Android SDK" />
+    <orderEntry type="module-library" exported="">
       <library name="junit3">
         <CLASSES>
           <root url="jar://$APPLICATION_HOME_DIR$/lib/junit.jar!/" />
@@ -24,7 +24,7 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library name="android.jar">
         <CLASSES>
           <root url="jar://$MODULE_DIR$/../../../../android-sdks/platforms/android-17/android.jar!/" />
@@ -33,7 +33,7 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library name="uiautomator.jar">
         <CLASSES>
           <root url="jar://$MODULE_DIR$/../../../../android-sdks/platforms/android-17/uiautomator.jar!/" />
@@ -42,7 +42,7 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module" module-name="TestingAndroid" />
+    <orderEntry type="module" module-name="TestingAndroid" exported="" />
   </component>
 </module>
 

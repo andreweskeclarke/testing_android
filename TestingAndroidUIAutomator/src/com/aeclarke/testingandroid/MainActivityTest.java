@@ -27,7 +27,7 @@ public class MainActivityTest extends UiAutomatorTestCase {
         UiObject loginButton = new UiObject(new UiSelector().text("Login"));
         loginButton.clickAndWaitForNewWindow();
 
-		UiObject loginText = new UiObject(new UiSelector().text("Login"));
-		assertTrue("Some error", loginText.exists());
+		UiObject loginText = new UiObject(new UiSelector().text("Login Screen"));
+		assertTrue("Could not find correct login title", loginText.exists());
 	}
 }
