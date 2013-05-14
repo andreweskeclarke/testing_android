@@ -5,11 +5,14 @@ import android.os.Bundle;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
+import roboguice.inject.InjectView;
 
 public class MainActivity extends ActionBarredActivity {
 
-	private Button loginButton;
-    private Button contentListButton;
+
+    @InjectView(R.id.login_button) Button loginButton;
+    @InjectView(R.id.buckets_list_button) Button contentListButton;
+
 	private OnClickListener loginListener = new OnClickListener() {
 		@Override
 		public void onClick(View v) {
@@ -30,9 +33,7 @@ public class MainActivity extends ActionBarredActivity {
 	public void onCreate(Bundle savedInstanceState){
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
-		loginButton = (Button) findViewById(R.id.login_button);
 		loginButton.setOnClickListener(loginListener );
-        contentListButton = (Button) findViewById(R.id.buckets_list_button);
         contentListButton.setOnClickListener(contentListListener);
 	}
 }

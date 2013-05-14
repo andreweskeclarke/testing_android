@@ -21,10 +21,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40aeecfa-e721-49b5-9dc6-a681d92401da" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/guice_2_0_no_aop.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/roboguice_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/roboguice_2_0_javadoc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestingAndroid/TestingAndroid.iml" afterPath="$PROJECT_DIR$/TestingAndroid/TestingAndroid.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestingAndroid/src/com/aeclarke/testingandroid/BucketsListActivity.java" afterPath="$PROJECT_DIR$/TestingAndroid/src/com/aeclarke/testingandroid/BucketsListActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestingAndroid/src/com/aeclarke/testingandroid/MainActivity.java" afterPath="$PROJECT_DIR$/TestingAndroid/src/com/aeclarke/testingandroid/MainActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="testing_android.iws" />
@@ -34,9 +32,9 @@
     <file path="/fragment.java" changelist="40aeecfa-e721-49b5-9dc6-a681d92401da" time="1368557236659" ignored="false" />
     <file path="/strings.xml" changelist="40aeecfa-e721-49b5-9dc6-a681d92401da" time="1368554740127" ignored="false" />
     <file path="/TestMainActivity.java" changelist="40aeecfa-e721-49b5-9dc6-a681d92401da" time="1368477989882" ignored="false" />
-    <file path="/MainActivity.java" changelist="40aeecfa-e721-49b5-9dc6-a681d92401da" time="1368553794882" ignored="false" />
+    <file path="/MainActivity.java" changelist="40aeecfa-e721-49b5-9dc6-a681d92401da" time="1368557550476" ignored="false" />
     <file path="/ContentListActivity.java" changelist="40aeecfa-e721-49b5-9dc6-a681d92401da" time="1368480043575" ignored="false" />
-    <file path="/BucketsListActivity.java" changelist="40aeecfa-e721-49b5-9dc6-a681d92401da" time="1368553522488" ignored="false" />
+    <file path="/BucketsListActivity.java" changelist="40aeecfa-e721-49b5-9dc6-a681d92401da" time="1368557607993" ignored="false" />
     <file path="/AndroidManifest.xml" changelist="40aeecfa-e721-49b5-9dc6-a681d92401da" time="1368549670729" ignored="false" />
     <file path="/ActionBarredActivity.java" changelist="40aeecfa-e721-49b5-9dc6-a681d92401da" time="1368554269980" ignored="false" />
     <file path="/a.xml" changelist="40aeecfa-e721-49b5-9dc6-a681d92401da" time="1368553680154" ignored="false" />
@@ -114,7 +112,7 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestingAndroid/src/com/aeclarke/testingandroid/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="54" selection-start="228" selection-end="248" vertical-scroll-proportion="0.0">
+            <state line="36" column="4" selection-start="1098" selection-end="1098" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -126,15 +124,6 @@
         <entry file="file://$PROJECT_DIR$/TestingAndroidUIAutomator/src/com/aeclarke/testingandroid/MainActivityTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="27" column="44" selection-start="1226" selection-end="1226" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="strings.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestingAndroid/res/values/strings.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="43" selection-start="547" selection-end="547" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -154,11 +143,11 @@
       <file leaf-file-name="BucketsListActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestingAndroid/src/com/aeclarke/testingandroid/BucketsListActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="53" selection-start="215" selection-end="215" vertical-scroll-proportion="0.0">
+            <state line="18" column="0" selection-start="661" selection-end="661" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
-                <marker date="1368553526000" expanded="true" signature="99:136" placeholder="..." />
-                <marker date="1368553526000" expanded="true" signature="315:711" placeholder="..." />
+                <marker date="1368557622000" expanded="true" signature="70:107" placeholder="..." />
+                <marker date="1368557622000" expanded="true" signature="382:701" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -167,7 +156,7 @@
       <file leaf-file-name="ActionBarredActivity.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TestingAndroid/src/com/aeclarke/testingandroid/ActionBarredActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="69" selection-start="268" selection-end="268" vertical-scroll-proportion="0.17123288">
+            <state line="10" column="42" selection-start="258" selection-end="258" vertical-scroll-proportion="-0.06849315">
               <folding />
             </state>
           </provider>
@@ -208,14 +197,14 @@
         <option value="$PROJECT_DIR$/TestingAndroid/.classpath" />
         <option value="$PROJECT_DIR$/TestingAndroid/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/TestingAndroid/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/TestingAndroid/src/com/aeclarke/testingandroid/BucketsListActivity.java" />
-        <option value="$PROJECT_DIR$/TestingAndroid/src/com/aeclarke/testingandroid/MainActivity.java" />
         <option value="$PROJECT_DIR$/TestingAndroid/src/com/aeclarke/testingandroid/LoginActivity.java" />
         <option value="$PROJECT_DIR$/TestingAndroid/gen/com/aeclarke/testingandroid/ActionBarredActivity.java" />
         <option value="$PROJECT_DIR$/TestingAndroid/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/TestingAndroidUIAutomator/src/com/aeclarke/testingandroid/MainActivityTest.java" />
         <option value="$PROJECT_DIR$/TestingAndroid/res/menu/main_menu.xml" />
         <option value="$PROJECT_DIR$/TestingAndroid/src/com/aeclarke/testingandroid/TestingAndroidApplication.java" />
+        <option value="$PROJECT_DIR$/TestingAndroid/src/com/aeclarke/testingandroid/MainActivity.java" />
+        <option value="$PROJECT_DIR$/TestingAndroid/src/com/aeclarke/testingandroid/BucketsListActivity.java" />
       </list>
     </option>
   </component>
@@ -944,9 +933,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestingAndroid/src/com/aeclarke/testingandroid/LoginActivity.java">
+    <entry file="file://$PROJECT_DIR$/TestingAndroid/res/menu/main_menu.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="38" selection-start="132" selection-end="132" vertical-scroll-proportion="0.0">
+        <state line="7" column="38" selection-start="366" selection-end="366" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestingAndroid/src/com/aeclarke/testingandroid/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="4" selection-start="1098" selection-end="1098" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -955,14 +951,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TestingAndroid/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="43" selection-start="547" selection-end="547" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestingAndroid/res/menu/main_menu.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="38" selection-start="366" selection-end="366" vertical-scroll-proportion="0.0">
+        <state line="9" column="43" selection-start="547" selection-end="547" vertical-scroll-proportion="0.31764707">
           <folding />
         </state>
       </provider>
@@ -974,9 +963,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestingAndroid/src/com/aeclarke/testingandroid/MainActivity.java">
+    <entry file="file://$PROJECT_DIR$/TestingAndroid/src/com/aeclarke/testingandroid/LoginActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="54" selection-start="228" selection-end="248" vertical-scroll-proportion="0.0">
+        <state line="5" column="38" selection-start="132" selection-end="132" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -985,18 +974,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TestingAndroid/src/com/aeclarke/testingandroid/BucketsListActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="53" selection-start="215" selection-end="215" vertical-scroll-proportion="0.0">
+        <state line="18" column="0" selection-start="661" selection-end="661" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1368553526000" expanded="true" signature="99:136" placeholder="..." />
-            <marker date="1368553526000" expanded="true" signature="315:711" placeholder="..." />
+            <marker date="1368557622000" expanded="true" signature="70:107" placeholder="..." />
+            <marker date="1368557622000" expanded="true" signature="382:701" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TestingAndroid/src/com/aeclarke/testingandroid/ActionBarredActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="69" selection-start="268" selection-end="268" vertical-scroll-proportion="0.17123288">
+        <state line="10" column="42" selection-start="258" selection-end="258" vertical-scroll-proportion="-0.06849315">
           <folding />
         </state>
       </provider>

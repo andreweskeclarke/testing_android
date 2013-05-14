@@ -1,11 +1,13 @@
 package com.aeclarke.testingandroid;
 
-import android.app.Activity;
 import android.os.Bundle;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
+import roboguice.inject.InjectView;
 
 public class BucketsListActivity extends ActionBarredActivity {
+
+    @InjectView(R.id.bucketsListView) ListView bucketList;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -15,7 +17,6 @@ public class BucketsListActivity extends ActionBarredActivity {
         String[] typesOfBuckets = {"Sand Castle Bucket", "Paint Bucket", "Lunch Pail"};
         ArrayAdapter adapter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, typesOfBuckets);
 
-        ListView bucketList = (ListView) findViewById(R.id.bucketsListView);
         bucketList.setAdapter(adapter);
     }
 }
