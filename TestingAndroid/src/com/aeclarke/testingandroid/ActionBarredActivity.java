@@ -6,9 +6,10 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
+import roboguice.activity.RoboActivity;
 
 
-public class ActionBarredActivity extends Activity {
+public class ActionBarredActivity extends RoboActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
