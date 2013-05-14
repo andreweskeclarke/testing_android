@@ -26,6 +26,10 @@
             android:name="com.aeclarke.testingandroid.LoginActivity"
             android:label="@string/app_name" 
            	/>
+        <activity
+                android:name="com.aeclarke.testingandroid.BucketsListActivity"
+                android:label="@string/app_name"
+                />
     </application>
 
 </manifest>
