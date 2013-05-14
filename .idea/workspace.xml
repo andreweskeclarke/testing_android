@@ -20,20 +20,7 @@
     </option>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40aeecfa-e721-49b5-9dc6-a681d92401da" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/androidDexCompiler.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/android_support_v4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/android_support_v4_ff2d213a084bc00c38906ad754ef2391.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TestingAndroid/bin/TestingAndroid.apk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TestingAndroid/res/menu/main.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestingAndroid/.classpath" afterPath="$PROJECT_DIR$/TestingAndroid/.classpath" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestingAndroidRobotium/TestingAndroidRobotium.iml" afterPath="$PROJECT_DIR$/TestingAndroidRobotium/TestingAndroidRobotium.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestingAndroid/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/TestingAndroid/res/layout/activity_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestingAndroid/res/values/strings.xml" afterPath="$PROJECT_DIR$/TestingAndroid/res/values/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="40aeecfa-e721-49b5-9dc6-a681d92401da" name="Default" comment="" />
     <ignored path="testing_android.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="40aeecfa-e721-49b5-9dc6-a681d92401da" time="1368538336270" ignored="false" />
@@ -152,7 +139,7 @@
       <file leaf-file-name="strings.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TestingAndroid/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="104" selection-end="104" vertical-scroll-proportion="0.14962594">
+            <state line="9" column="156" selection-start="474" selection-end="474" vertical-scroll-proportion="0.33665836">
               <folding />
             </state>
           </provider>
@@ -985,7 +972,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TestingAndroid/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="104" selection-end="104" vertical-scroll-proportion="0.14962594">
+        <state line="9" column="156" selection-start="474" selection-end="474" vertical-scroll-proportion="0.33665836">
           <folding />
         </state>
       </provider>
