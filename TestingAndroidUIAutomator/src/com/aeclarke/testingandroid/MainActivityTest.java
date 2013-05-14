@@ -24,6 +24,9 @@ public class MainActivityTest extends UiAutomatorTestCase {
         UiObject testingAndroidApp = appViews.getChildByText(new UiSelector().className(android.widget.TextView.class.getName()),"TestingAndroid");
         testingAndroidApp.clickAndWaitForNewWindow();
 
+        UiObject homeIcon = new UiObject(new UiSelector().description("Home Icon"));
+        homeIcon.clickAndWaitForNewWindow();
+
         UiObject loginButton = new UiObject(new UiSelector().text("Login"));
         loginButton.clickAndWaitForNewWindow();
 

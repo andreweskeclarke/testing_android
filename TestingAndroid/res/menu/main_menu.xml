@@ -2,6 +2,7 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:id="@+id/menu_home_icon"
           android:icon="@drawable/ic_launcher"
-          android:title="@string/menu_home"
-          android:showAsAction="ifRoom|withText" />
+          android:title="@string/menu_home_icon"
+          android:showAsAction="ifRoom|withText"
+          android:contentDescription = "@string/menu_home_icon"/>
 </menu>

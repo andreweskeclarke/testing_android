@@ -1,8 +1,10 @@
 # Compiled source #
 ###################
-*.com
 *.apk
+*.ap_
+*.com
 *.class
+*.dex
 *.dll
 *.exe
 *.o
@@ -38,8 +40,13 @@ Icon?
 ehthumbs.db
 Thumbs.db
 
+# Generated files #
+###################
+*/bin/
+*/gen/
 
 # IDE Files #
 #############
-workspace.xml
-tasks.xml
+*/.idea/workspace.xml
+*/.idea/tasks.xml
+*.iws
