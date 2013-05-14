@@ -5,7 +5,7 @@ import android.os.Bundle;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
-public class BucketsListActivity extends Activity {
+public class BucketsListActivity extends ActionBarredActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
