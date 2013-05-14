@@ -21,13 +21,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40aeecfa-e721-49b5-9dc6-a681d92401da" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestingAndroid/src/com/aeclarke/testingandroid/BucketsListActivity.java" afterPath="$PROJECT_DIR$/TestingAndroid/src/com/aeclarke/testingandroid/BucketsListActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestingAndroid/src/com/aeclarke/testingandroid/MainActivity.java" afterPath="$PROJECT_DIR$/TestingAndroid/src/com/aeclarke/testingandroid/MainActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/androidDexCompiler.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/android_support_v4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/android_support_v4_ff2d213a084bc00c38906ad754ef2391.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestingAndroid/bin/TestingAndroid.apk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestingAndroid/res/menu/main.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestingAndroid/.classpath" afterPath="$PROJECT_DIR$/TestingAndroid/.classpath" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestingAndroidRobotium/TestingAndroidRobotium.iml" afterPath="$PROJECT_DIR$/TestingAndroidRobotium/TestingAndroidRobotium.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestingAndroid/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/TestingAndroid/res/layout/activity_main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestingAndroid/res/values/strings.xml" afterPath="$PROJECT_DIR$/TestingAndroid/res/values/strings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="testing_android.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="40aeecfa-e721-49b5-9dc6-a681d92401da" time="1368480860612" ignored="false" />
+    <file path="/Dummy.txt" changelist="40aeecfa-e721-49b5-9dc6-a681d92401da" time="1368538336270" ignored="false" />
     <file path="/MainActivityTest.java" changelist="40aeecfa-e721-49b5-9dc6-a681d92401da" time="1368470691604" ignored="false" />
     <file path="/fragment.java" changelist="40aeecfa-e721-49b5-9dc6-a681d92401da" time="1368480031526" ignored="false" />
     <file path="/strings.xml" changelist="40aeecfa-e721-49b5-9dc6-a681d92401da" time="1368470901206" ignored="false" />
@@ -45,7 +54,7 @@
   <component name="CompilerWorkspaceConfiguration">
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
     <option name="COMPILER_PROCESS_HEAP_SIZE" value="1200" />
-    <option name="COMPILER_PROCESS_ADDITIONAL_VM_OPTIONS" value="-Xms512m -Xmx4096m -XX:MaxPermSize=2048m -ea -server -XX:-UseGCOverheadLimit" />
+    <option name="COMPILER_PROCESS_ADDITIONAL_VM_OPTIONS" value="" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -94,6 +103,10 @@
     <breakpoint_rules />
     <ui_properties />
   </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="testing_android" />
@@ -103,8 +116,10 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestingAndroid/src/com/aeclarke/testingandroid/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="0" selection-start="401" selection-end="401" vertical-scroll-proportion="0.0">
+            <state line="36" column="55" selection-start="1207" selection-end="1207" vertical-scroll-proportion="0.0">
               <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#377#548#0" expanded="true" />
                 <element signature="e#544#545#0" expanded="true" />
                 <element signature="e#601#820#0" expanded="true" />
                 <element signature="e#813#814#0" expanded="true" />
@@ -113,14 +128,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BucketsListActivity.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="BucketsListActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestingAndroid/src/com/aeclarke/testingandroid/BucketsListActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="24" selection-start="705" selection-end="705" vertical-scroll-proportion="0.6492027">
+            <state line="14" column="12" selection-start="390" selection-end="390" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
-                <marker date="1368494255000" expanded="true" signature="303:699" placeholder="..." />
+                <marker date="1368498731000" expanded="true" signature="303:699" placeholder="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".classpath" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestingAndroid/.classpath">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="132" selection-start="281" selection-end="281" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="strings.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TestingAndroid/res/values/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="0" selection-start="104" selection-end="104" vertical-scroll-proportion="0.14962594">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -160,11 +193,11 @@
       </file>
       <file leaf-file-name="activity_main.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestingAndroid/res/layout/activity_main.xml">
-          <provider selected="true" editor-type-id="android-designer">
+          <provider editor-type-id="android-designer">
             <state />
           </provider>
-          <provider editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
@@ -189,15 +222,16 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/TestingAndroid/res/layout/activity_login.xml" />
-        <option value="$PROJECT_DIR$/TestingAndroid/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/TestingAndroidUIAutomator/src/com/aeclarke/testingandroid/MainActivityTest.java" />
         <option value="$PROJECT_DIR$/TestingAndroidRobotium/src/com/aeclarke/testingandroid/test/TestMainActivity.java" />
         <option value="$PROJECT_DIR$/TestingAndroid/test/com/aeclarke/testingandroid/ContentListActivity.java" />
         <option value="$PROJECT_DIR$/TestingAndroid/res/layout/content_list.xml" />
         <option value="$PROJECT_DIR$/TestingAndroid/src/com/aeclarke/testingandroid/ContentListActivity.java" />
-        <option value="$PROJECT_DIR$/TestingAndroid/res/layout/activity_main.xml" />
-        <option value="$PROJECT_DIR$/TestingAndroid/src/com/aeclarke/testingandroid/BucketsListActivity.java" />
         <option value="$PROJECT_DIR$/TestingAndroid/src/com/aeclarke/testingandroid/MainActivity.java" />
+        <option value="$PROJECT_DIR$/TestingAndroid/src/com/aeclarke/testingandroid/BucketsListActivity.java" />
+        <option value="$PROJECT_DIR$/TestingAndroid/.classpath" />
+        <option value="$PROJECT_DIR$/TestingAndroid/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/TestingAndroid/res/values/strings.xml" />
       </list>
     </option>
   </component>
@@ -276,6 +310,56 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="TestingAndroid" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testing_android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestingAndroid" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testing_android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestingAndroid" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testing_android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestingAndroid" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -363,9 +447,9 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="options.lastSelected" value="project.propCompiler" />
+    <property name="options.lastSelected" value="reference.projectsettings.compiler.javacompiler" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/TestingAndroid" />
-    <property name="AndroidLayoutSelectedEditor" value="android-designer" />
+    <property name="AndroidLayoutSelectedEditor" value="text-editor" />
     <property name="project.structure.side.proportion" value="0.23598129" />
     <property name="DEBUGGABLE_DEVICE" value="FA34XS904394" />
     <property name="MemberChooser.copyJavadoc" value="false" />
@@ -382,8 +466,11 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.aeclarke.testingandroid" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/TestingAndroid/res" />
+    </key>
   </component>
-  <component name="RunManager" selected="Android Application.TestingAndroid">
+  <component name="RunManager" selected="Android Tests.TestingAndroid">
     <configuration default="false" name="All in TestingAndroidUIAutomator" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="TestingAndroidUIAutomator" />
@@ -441,6 +528,26 @@
       <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="CLASS_NAME" value="com.aeclarke.testingandroid.test.TestMainActivity" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="USB_DEVICE" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestingAndroid" type="AndroidTestRunConfigurationType" factoryName="Android Tests" temporary="true">
+      <module name="TestingAndroid" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TARGET_SELECTION_MODE" value="USB_DEVICE" />
       <option name="PREFERRED_AVD" value="" />
@@ -598,38 +705,20 @@
       <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="TestingAndroid" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
-      <module name="TestingAndroid" />
-      <option name="TESTING_TYPE" value="0" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TARGET_SELECTION_MODE" value="USB_DEVICE" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <RunnerSettings RunnerId="AndroidDebugRunner" />
-      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
-      <method />
-    </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Android Application.TestingAndroid" />
-      <item index="1" class="java.lang.String" itemvalue="Android Tests.TestingAndroid" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.All in TestingAndroidUIAutomator" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.MainActivityTest" />
-      <item index="4" class="java.lang.String" itemvalue="Android Tests.TestMainActivity" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.All in TestingAndroidUIAutomator" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.MainActivityTest" />
+      <item index="3" class="java.lang.String" itemvalue="Android Tests.TestMainActivity" />
+      <item index="4" class="java.lang.String" itemvalue="Android Tests.TestingAndroid" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Android Tests.TestMainActivity" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.MainActivityTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.All in TestingAndroidUIAutomator" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Android Tests.TestingAndroid" />
+        <item index="1" class="java.lang.String" itemvalue="Android Tests.TestingAndroid" />
+        <item index="2" class="java.lang.String" itemvalue="Android Tests.TestingAndroid" />
+        <item index="3" class="java.lang.String" itemvalue="Android Tests.TestingAndroid" />
+        <item index="4" class="java.lang.String" itemvalue="Android Tests.TestingAndroid" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -667,34 +756,34 @@
     <frame x="10" y="22" width="1420" height="815" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32969433" sideWeight="0.67144907" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32969433" sideWeight="0.67144907" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32969433" sideWeight="0.6719425" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294964" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32805756" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32805756" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2496361" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14992721" sideWeight="0.6719425" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14919941" sideWeight="0.6719425" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294964" sideWeight="0.213246" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32969433" sideWeight="0.6719425" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32969433" sideWeight="0.6705036" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32805756" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2496361" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32969433" sideWeight="0.6705036" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -764,16 +853,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/TestingAndroid/src/com/aeclarke/testingandroid/BucketsListActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="33" selection-start="693" selection-end="693" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1368494255000" expanded="true" signature="303:699" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TestingAndroid/res/layout/content_list.xml">
       <provider selected="true" editor-type-id="android-designer">
         <state />
@@ -809,11 +888,6 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestingAndroid/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="43" selection-start="428" selection-end="428" vertical-scroll-proportion="-5.4" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TestingAndroid/AndroidManifest.xml">
@@ -869,20 +943,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestingAndroid/res/layout/activity_main.xml">
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TestingAndroid/src/com/aeclarke/testingandroid/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="401" selection-end="401" vertical-scroll-proportion="0.0">
+        <state line="36" column="55" selection-start="1207" selection-end="1207" vertical-scroll-proportion="0.0">
           <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#377#548#0" expanded="true" />
             <element signature="e#544#545#0" expanded="true" />
             <element signature="e#601#820#0" expanded="true" />
             <element signature="e#813#814#0" expanded="true" />
@@ -892,11 +958,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TestingAndroid/src/com/aeclarke/testingandroid/BucketsListActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="24" selection-start="705" selection-end="705" vertical-scroll-proportion="0.6492027">
+        <state line="14" column="12" selection-start="390" selection-end="390" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1368494255000" expanded="true" signature="303:699" placeholder="..." />
+            <marker date="1368498731000" expanded="true" signature="303:699" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestingAndroid/.classpath">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="132" selection-start="281" selection-end="281" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestingAndroid/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestingAndroid/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="104" selection-end="104" vertical-scroll-proportion="0.14962594">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -952,12 +1042,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>TestingAndroid</last-edited>
+          <last-edited>TestingAndroidRobolectric</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.23598129" />
-                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>

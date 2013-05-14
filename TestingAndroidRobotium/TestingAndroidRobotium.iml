@@ -24,7 +24,7 @@
     </content>
     <orderEntry type="jdk" jdkName="Android 4.2.2 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library" exported="">
+    <orderEntry type="module-library">
       <library name="robotium-solo-4.1-javadoc.jar">
         <CLASSES>
           <root url="jar://$MODULE_DIR$/lib/robotium-solo-4.1-javadoc.jar!/" />
