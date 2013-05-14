@@ -42,8 +42,8 @@ Thumbs.db
 
 # Generated files #
 ###################
-*/bin/
-*/gen/
+**/bin/
+**/gen/
 
 # IDE Files #
 #############
