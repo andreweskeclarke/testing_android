@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="roboguice-2.0-javadoc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/TestingAndroid/libs/guice-2.0-no_aop.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/TestingAndroid/libs/roboguice-2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
